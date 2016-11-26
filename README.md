@@ -1,0 +1,1 @@
+This is Lucid Spark's first git project!
